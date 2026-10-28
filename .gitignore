@@ -1,0 +1,13 @@
+**/work/
+**/dist/
+**/bin/
+**/obj/
+**/安装包/
+**/settings.xml*
+*.p12
+*.jks
+*.keystore
+*.apk
+*.exe
+__pycache__/
+.env*
